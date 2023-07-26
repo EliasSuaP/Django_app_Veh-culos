@@ -1,7 +1,5 @@
 # Django_app_Veh-culos
 
-# Django_app_Veh-culos
-
 En este proyecto se utiliza conocimientos de front end, back end y base de datos para lograr una app básica pero completa
 realizada con framework django.
 Este proyecto permite agregar vehículos al usuario, muestra el listado de vehículos que hay en la base de datos (models) 
