@@ -1,4 +1,4 @@
-# Django_app_Veh-culos
+# Django_app_Vehiculos
 
 En este proyecto se utiliza conocimientos de front end, back end y base de datos para lograr una app básica pero completa
 realizada con framework django.
