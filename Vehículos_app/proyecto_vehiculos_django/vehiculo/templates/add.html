@@ -1,0 +1,14 @@
+<!-- En este template se renderiza 
+    el formulario hecho con django para ingresar vehículos a la base de datos -->
+
+{% extends 'index.html' %}
+
+{% block content %}
+<div class="container-fluid my-5 col-md-6">
+    <form action="" method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button class="btn btn-primary">Enviar</button>
+    </form> 
+</div>
+{% endblock %}
